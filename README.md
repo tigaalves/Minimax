@@ -13,6 +13,7 @@ https://www.python.org/downloads/
 - Pressione o seguinte atalho no seu teclado <strong>Win+R</strong>
 - Quanto a tela do Executar abrir, digite o comando <strong>cmd</strong>
 - Ao abrir o cmd digite o comando cd + o caminho que você copiou nas propriedades do arquivo, conforme a imagem de exemplo a seguir:
+
 ![imagem_comando_cmd](https://user-images.githubusercontent.com/105888821/169409246-c30c8118-2ddd-45a1-b118-b889e52ffefb.png)
 
 - Tecle Enter
