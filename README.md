@@ -2,6 +2,7 @@
 Projeto Minimax da disciplina Fundamentos de Inteligência Artificial.
 
 Nome: Thiago Alves Damascena
+
 RGM: 2196040-2
 
 ## Passo-a-passo para execução do projeto
